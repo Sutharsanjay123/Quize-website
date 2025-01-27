@@ -65,8 +65,5 @@ The JavaScript file that manages:
 ### Results Page
 ![Results Page](imag/image.png)
 
-## License
-
-This project is open-source and available for modification and use under the MIT License.
 
 
